@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e6380a5-e527-4caf-8d8e-4583a5799d3a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MiniLLM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_tokenizer.py" afterDir="false" />
+    <list default="true" id="6e6380a5-e527-4caf-8d8e-4583a5799d3a" name="更改" comment="一个基于PyTorch实现的轻量级中文古文（文言文）语言模型项目。该项目旨在构建一个能够理解和生成文言文的小型Transformer模型，可用于古文文本生成、补全等任务。">
+      <change beforePath="$PROJECT_DIR$/classical_model.pth" beforeDir="false" afterPath="$PROJECT_DIR$/classical_model.pth" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +74,24 @@
       <updated>1756271512476</updated>
       <workItem from="1756271513538" duration="2851000" />
       <workItem from="1756274395338" duration="14103000" />
-      <workItem from="1756341049022" duration="6634000" />
+      <workItem from="1756341049022" duration="7523000" />
     </task>
+    <task id="LOCAL-00001" summary="一个基于PyTorch实现的轻量级中文古文（文言文）语言模型项目。该项目旨在构建一个能够理解和生成文言文的小型Transformer模型，可用于古文文本生成、补全等任务。">
+      <option name="closed" value="true" />
+      <created>1756349910534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756349910534</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="一个基于PyTorch实现的轻量级中文古文（文言文）语言模型项目。该项目旨在构建一个能够理解和生成文言文的小型Transformer模型，可用于古文文本生成、补全等任务。" />
+    <option name="LAST_COMMIT_MESSAGE" value="一个基于PyTorch实现的轻量级中文古文（文言文）语言模型项目。该项目旨在构建一个能够理解和生成文言文的小型Transformer模型，可用于古文文本生成、补全等任务。" />
   </component>
 </project>
