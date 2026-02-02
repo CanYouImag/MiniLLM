@@ -50,7 +50,7 @@ pip install torch tokenizers
 
 ### 2. 训练分词器
 ```bash
-python train_tokenizer.py
+python train_punct_tokenizer.py
 ```
 
 
